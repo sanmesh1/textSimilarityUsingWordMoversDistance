@@ -1,21 +1,596 @@
 ,targetIndex,targetTitle,targetSearchQuery,targetRelevanceToQuery,targetDescription,"targetproduct_title,product_description_preprocessed",similarIndex,similarTitle,similarSearchQuery,similarRelevanceToQuery,similarDescription,"similarproduct_title,product_description_preprocessed",WMDRank,WMDSimilarity,WMDAccuracy
-0,0,Sony PlayStation 4 (PS4) (Latest Model)- 500 GB Jet Black Console,playstation 4,3.67,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",9,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console *NEW*,playstation 4,2.33,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",0,1.0,1.8
-1,,,,,,,1,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console,playstation 4,4.0,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",1,1.0,
-2,,,,,,,4,Sony PlayStation 4 (PS4) (Latest Model)- 500 GB Jet Black Console,playstation 4,3.33,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",2,1.0,
-3,,,,,,,5,Sony PlayStation 4 (PS4) (Latest Model)- 500 GB Jet Black Console,playstation 4,3.2,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",3,1.0,
-4,,,,,,,13,Sony PlayStation 4 (Latest Model) 500 GB Jet Black Console,playstation 4,3.0,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",4,1.0,
-5,,,,,,,0,Sony PlayStation 4 (PS4) (Latest Model)- 500 GB Jet Black Console,playstation 4,3.67,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",5,1.0,
+0,0,Sony PlayStation 4 (PS4) (Latest Model)- 500 GB Jet Black Console,playstation 4,3.67,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",9,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console *NEW*,playstation 4,2.33,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",0,1.0,0.55
+1,,,,,,,0,Sony PlayStation 4 (PS4) (Latest Model)- 500 GB Jet Black Console,playstation 4,3.67,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",1,1.0,
+2,,,,,,,1,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console,playstation 4,4.0,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",2,1.0,
+3,,,,,,,4,Sony PlayStation 4 (PS4) (Latest Model)- 500 GB Jet Black Console,playstation 4,3.33,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",3,1.0,
+4,,,,,,,5,Sony PlayStation 4 (PS4) (Latest Model)- 500 GB Jet Black Console,playstation 4,3.2,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",4,1.0,
+5,,,,,,,13,Sony PlayStation 4 (Latest Model) 500 GB Jet Black Console,playstation 4,3.0,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",5,1.0,
 6,,,,,,,2,Sony PlayStation 4 PS4 500 GB Jet Black Console,playstation 4,4.0,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'gb', 'jet', 'black', 'console', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",6,0.9848623234761872,
 7,,,,,,,18,Sony PlayStation 4 500GB Console with 2 Controllers,playstation 4,3.0,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'console', 'controllers', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",7,0.9637477035934351,
 8,,,,,,,7,"Sony PlayStation 4 500GB, Dualshock Wireless Control, HDMI Gaming Console Refurb",playstation 4,4.0,"The PlayStation 4 system opens the door to an incredible journey through immersive new gaming worlds and a deeply connected gaming community. Step into living, breathing worlds where you are hero of your epic journey. Explore gritty urban environments, vast galactic landscapes, and fantastic historical settings brought to life on an epic scale, without limits. With an astounding launch lineup and over 180 games in development the PS4 system offers more top-tier blockbusters and inventive indie hits than any other next-gen console. The PS4 system is developer inspired, gamer focused. The PS4 system learns how you play and intuitively curates the content you use most often. Fire it up, and your PS4 system points the way to new, amazing experiences you can jump into alone or with friends. Create your own legend using a sophisticated, intuitive network built for gamers. Broadcast your gameplay live and direct to the world, complete with your commentary. Or immortalize your most epic moments and share at the press of a button. Access the best in music, movies, sports and television. PS4 system doesn t require a membership fee to access your digital entertainment subscriptions. You get the full spectrum of entertainment that matters to you on the PS4 system. PlayStation 4: The Best Place to Play The PlayStation 4 system provides dynamic, connected gaming, powerful graphics and speed, intelligent personalization, deeply integrated social capabilities, and innovative second-screen features. Combining unparalleled content, immersive gaming experiences, all of your favorite digital entertainment apps, and PlayStation exclusives, the PS4 system focuses on the gamers.Gamer Focused, Developer InspiredThe PS4 system focuses on the gamer, ensuring that the very best games and the most immersive experiences are possible on the platform.<br>Read more about the PS4 on ebay guides.</br>","['sony', 'playstation', 'dualshock', 'wireless', 'control', 'hdmi', 'gaming', 'console', 'refurb', 'playstation', 'system', 'opens', 'door', 'incredible', 'journey', 'immersive', 'new', 'gaming', 'worlds', 'deeply', 'connected', 'gaming', 'community', 'step', 'living', 'breathing', 'worlds', 'hero', 'epic', 'journey', 'explore', 'gritty', 'urban', 'environments', 'vast', 'galactic', 'landscapes', 'fantastic', 'historical', 'settings', 'brought', 'life', 'epic', 'scale', 'without', 'limits', 'astounding', 'launch', 'lineup', 'games', 'development', 'system', 'offers', 'blockbusters', 'inventive', 'indie', 'hits', 'console', 'system', 'developer', 'inspired', 'gamer', 'focused', 'system', 'learns', 'play', 'intuitively', 'curates', 'content', 'use', 'often', 'fire', 'system', 'points', 'way', 'new', 'amazing', 'experiences', 'jump', 'alone', 'friends', 'create', 'legend', 'using', 'sophisticated', 'intuitive', 'network', 'built', 'gamers', 'broadcast', 'gameplay', 'live', 'direct', 'world', 'complete', 'commentary', 'immortalize', 'epic', 'moments', 'share', 'press', 'button', 'access', 'best', 'music', 'movies', 'sports', 'television', 'system', 'require', 'membership', 'fee', 'access', 'digital', 'entertainment', 'subscriptions', 'get', 'full', 'spectrum', 'entertainment', 'matters', 'system', 'playstation', 'best', 'place', 'play', 'playstation', 'system', 'provides', 'dynamic', 'connected', 'gaming', 'powerful', 'graphics', 'speed', 'intelligent', 'personalization', 'deeply', 'integrated', 'social', 'capabilities', 'innovative', 'features', 'combining', 'unparalleled', 'content', 'immersive', 'gaming', 'experiences', 'favorite', 'digital', 'entertainment', 'apps', 'playstation', 'exclusives', 'system', 'focuses', 'focused', 'developer', 'inspiredthe', 'system', 'focuses', 'gamer', 'ensuring', 'best', 'games', 'immersive', 'experiences', 'possible', 'br', 'read', 'ebay']",8,0.9635386838266259,
-9,,,,,,,70,D-Link DIR-657 300 Mbps 4-Port Gigabit Wireless N Router Hd Media Router 1000,routers,4.0,"Stream multiple media content - videos, music and more to multiple devices all at the same time without lag or skipping. The HD Fuel technology in the DIR-657 lets you watch Netflix and Vudu , play your Wii or Xbox 360 online or make Skype calls all without worrying about the skipping or latency you might experience with standard routers. It does so by automatically giving extra bandwidth for video, gaming and VoIP calls using HD Fuel QoS technology. The D-Link HD Media Router 1000(DIR-657) also comes equipped with 4 Gigabit ports to provide speeds up to 10x faster than standard 10/100 ports. What s more, it uses 802.11n technology with multiple intelligent antennas to maximize the speed and range of your wireless signal to significantly outperform 802.11g devices.","['mbps', 'gigabit', 'wireless', 'n', 'router', 'hd', 'media', 'router', 'stream', 'multiple', 'media', 'content', 'videos', 'music', 'multiple', 'devices', 'time', 'without', 'lag', 'skipping', 'hd', 'fuel', 'technology', 'lets', 'watch', 'netflix', 'vudu', 'play', 'wii', 'xbox', 'online', 'make', 'skype', 'calls', 'without', 'worrying', 'skipping', 'latency', 'might', 'experience', 'standard', 'routers', 'automatically', 'giving', 'extra', 'bandwidth', 'video', 'gaming', 'voip', 'calls', 'using', 'hd', 'fuel', 'qos', 'technology', 'hd', 'media', 'router', 'also', 'comes', 'equipped', 'gigabit', 'ports', 'provide', 'speeds', 'faster', 'standard', 'ports', 'uses', 'technology', 'multiple', 'intelligent', 'antennas', 'maximize', 'speed', 'range', 'wireless', 'signal', 'significantly', 'outperform', 'devices']",9,0.476288465656161,
-10,,,,,,,12,[Sony] Playstation 4 PS4 Video Game Console Black - Latest Model,playstation 4,3.33,,"['sony', 'playstation', 'video', 'game', 'console', 'black', 'latest', 'model']",10,0.4653569656375086,
-11,,,,,,,24,[Sony] Playstation 4 PS4 1105A Video Game Console 500GB White - Latest Model,playstation 4,4.0,,"['sony', 'playstation', 'video', 'game', 'console', 'white', 'latest', 'model']",11,0.4644643172506154,
-12,,,,,,,79,"Panasonic ES3831K Single Blade Travel Shaver, Black New",shaver panasonic,3.2,"Strong and trustworthy, the Panasonic electric shaver is built for folks who are worried about a wonderful shave every day.  This Panasonic ES3833S is just right for taming your beard, with an easy-to-maneuver design, so you can retain wonderfully soft skin.  Spend as much time as you need getting a complete shave by making use of the outstanding shave time typical of the Panasonic electric shaver.  Moreover, this men's electric shaver includes precision foil blades, so you can get wonderful shaves over a prolonged period.  With the gentle shaving mechanism on this Panasonic ES3833S, you can help avoid burning sensations on tender skin.","['panasonic', 'single', 'blade', 'travel', 'shaver', 'black', 'new', 'strong', 'trustworthy', 'panasonic', 'electric', 'shaver', 'built', 'folks', 'worried', 'wonderful', 'shave', 'every', 'day', 'panasonic', 'right', 'taming', 'beard', 'design', 'retain', 'wonderfully', 'soft', 'skin', 'spend', 'much', 'time', 'need', 'getting', 'complete', 'shave', 'making', 'use', 'outstanding', 'shave', 'time', 'typical', 'panasonic', 'electric', 'shaver', 'moreover', 'men', 'electric', 'shaver', 'includes', 'precision', 'foil', 'blades', 'get', 'wonderful', 'shaves', 'prolonged', 'period', 'gentle', 'shaving', 'mechanism', 'panasonic', 'help', 'avoid', 'burning', 'sensations', 'tender', 'skin']",12,0.4640303530090637,
-13,,,,,,,8,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console w/ 2 Controllers,playstation 4,3.75,,"['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console', 'controllers']",13,0.4612543804011447,
-14,,,,,,,20,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console,playstation 4,4.0,,"['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console']",14,0.46120352372410733,
-15,,,,,,,15,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console,playstation 4,4.0,,"['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console']",15,0.46120352372410733,
-16,,,,,,,16,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console,playstation 4,2.8,,"['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console']",16,0.46120352372410733,
-17,,,,,,,23,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console,playstation 4,4.0,,"['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console']",17,0.46120352372410733,
-18,,,,,,,21,Sony PlayStation 4 (Latest Model)- 500 GB Jet Black Console,playstation 4,4.0,,"['sony', 'playstation', 'latest', 'model', 'gb', 'jet', 'black', 'console']",18,0.46120352372410733,
-19,,,,,,,17,"Sony PlayStation 4 - 500 GB Jet Black Console (3 controllers,3 games included)",playstation 4,4.0,,"['sony', 'playstation', 'gb', 'jet', 'black', 'console', 'games', 'included']",19,0.46112697575430184,
+9,,,,,,,442,"LG Flatron E2340T 23 Widescreen LED LCD Monitor""",LED monitor,4.0,"This 23-inch LG Flatron monitor is transportable and modern, and it is made for delivering outstanding graphics and taking your user experience to a higher level as you enhance your system's performance.  This LG Flatron monitor is a capable choice for enhancing your work productivity thanks to the superior color balance.  Web architects and managers alike love the capacity, performance, and design of the LG E2340T.  This 23-inch monitor includes a great large-sized screen, therefore you can delight in enhanced computing productivity.  The LG E2340T helps you to change the monitor settings till you get them just the way you want them to optimize your gaming experience or office productivity with its easy-to-manipulate controls.  With its black body, this LG Flatron monitor will be a sophisticated upgrade for any computer.  With the superior screen resolution on this 23-inch monitor, you can get sharper text without taking up a lot of desk space.  Moreover, you can appreciate improved screen privacy and crisp, clear displays as the LG E2340T includes brilliant liquid crystal technology.","['lg', 'flatron', 'widescreen', 'led', 'lcd', 'monitor', 'lg', 'flatron', 'monitor', 'transportable', 'modern', 'made', 'delivering', 'outstanding', 'graphics', 'taking', 'user', 'experience', 'higher', 'level', 'enhance', 'system', 'performance', 'lg', 'flatron', 'monitor', 'capable', 'choice', 'enhancing', 'work', 'productivity', 'thanks', 'superior', 'color', 'balance', 'web', 'architects', 'managers', 'alike', 'love', 'capacity', 'performance', 'design', 'lg', 'monitor', 'includes', 'great', 'screen', 'therefore', 'delight', 'enhanced', 'computing', 'productivity', 'lg', 'helps', 'change', 'monitor', 'settings', 'till', 'get', 'way', 'want', 'optimize', 'gaming', 'experience', 'office', 'productivity', 'controls', 'black', 'body', 'lg', 'flatron', 'monitor', 'sophisticated', 'upgrade', 'computer', 'superior', 'screen', 'resolution', 'monitor', 'get', 'sharper', 'text', 'without', 'taking', 'lot', 'desk', 'space', 'moreover', 'appreciate', 'improved', 'screen', 'privacy', 'crisp', 'clear', 'displays', 'lg', 'includes', 'brilliant', 'liquid', 'crystal', 'technology']",9,0.47701806742641983,
+10,,,,,,,70,D-Link DIR-657 300 Mbps 4-Port Gigabit Wireless N Router Hd Media Router 1000,routers,4.0,"Stream multiple media content - videos, music and more to multiple devices all at the same time without lag or skipping. The HD Fuel technology in the DIR-657 lets you watch Netflix and Vudu , play your Wii or Xbox 360 online or make Skype calls all without worrying about the skipping or latency you might experience with standard routers. It does so by automatically giving extra bandwidth for video, gaming and VoIP calls using HD Fuel QoS technology. The D-Link HD Media Router 1000(DIR-657) also comes equipped with 4 Gigabit ports to provide speeds up to 10x faster than standard 10/100 ports. What s more, it uses 802.11n technology with multiple intelligent antennas to maximize the speed and range of your wireless signal to significantly outperform 802.11g devices.","['mbps', 'gigabit', 'wireless', 'n', 'router', 'hd', 'media', 'router', 'stream', 'multiple', 'media', 'content', 'videos', 'music', 'multiple', 'devices', 'time', 'without', 'lag', 'skipping', 'hd', 'fuel', 'technology', 'lets', 'watch', 'netflix', 'vudu', 'play', 'wii', 'xbox', 'online', 'make', 'skype', 'calls', 'without', 'worrying', 'skipping', 'latency', 'might', 'experience', 'standard', 'routers', 'automatically', 'giving', 'extra', 'bandwidth', 'video', 'gaming', 'voip', 'calls', 'using', 'hd', 'fuel', 'qos', 'technology', 'hd', 'media', 'router', 'also', 'comes', 'equipped', 'gigabit', 'ports', 'provide', 'speeds', 'faster', 'standard', 'ports', 'uses', 'technology', 'multiple', 'intelligent', 'antennas', 'maximize', 'speed', 'range', 'wireless', 'signal', 'significantly', 'outperform', 'devices']",10,0.476288465656161,
+11,,,,,,,488,Western Digital WD 500GB My Passport USB 3.0 Portable External Hard Drive,extenal hardisk 500 gb,3.33,"The Western Digital My Passport WDBKXH5000ASL 500 GB external HDD is an excellent storage solution for users who travel often. With a massive storage capacity, this WD hard drive meets the growing demands of storing your digitized content. Get data transfer speeds of up to 5 Gbps with the USB 3.0 interface in this external HDD that makes way for consistent storage and archiving abilities. With an automatic backup utility software, this WD hard drive provides continuous backup with encryption for all your files, thereby ensuring data safety. The Western Digital My Passport WDBKXH5000ASL uses its USB cable to draw power, thus eliminating the need of an adapter.","['western', 'digital', 'wd', 'passport', 'usb', 'portable', 'external', 'hard', 'drive', 'western', 'digital', 'passport', 'gb', 'external', 'hdd', 'excellent', 'storage', 'solution', 'users', 'travel', 'often', 'massive', 'storage', 'capacity', 'wd', 'hard', 'drive', 'meets', 'growing', 'demands', 'storing', 'digitized', 'content', 'get', 'data', 'transfer', 'speeds', 'gbps', 'usb', 'interface', 'external', 'hdd', 'makes', 'way', 'consistent', 'storage', 'archiving', 'abilities', 'automatic', 'backup', 'utility', 'software', 'wd', 'hard', 'drive', 'provides', 'continuous', 'backup', 'encryption', 'files', 'thereby', 'ensuring', 'data', 'safety', 'western', 'digital', 'passport', 'uses', 'usb', 'cable', 'draw', 'power', 'thus', 'eliminating', 'need', 'adapter']",11,0.47199875341465736,
+12,,,,,,,492,NEW WD My DVR Expander 500GB eSATA External Hard Drive TiVo S3 HD WDG1S5000VN,extenal hardisk 500 gb,2.67,"Give your PC additional storage capacity with the WD My DVR Expander hard drive. With eSATA interface, this WD hard drive offers excellent connectivity to you PC. The huge storage capacity of this WD external HDD allows you to conveniently store all your music, movies, videos, data files and more. With 7200 rpm of rotational speed, this WD hard drive provides you with excellent data transfer speed. Weighing just 2.60 lb, the WD My DVR Expander hard drive can be easily carried wherever you go. The no-fan passive cooling system of this WD external HDD keeps the temperature under control and gives you a quiet performance.","['new', 'wd', 'dvr', 'expander', 'esata', 'external', 'hard', 'drive', 'tivo', 'hd', 'give', 'pc', 'additional', 'storage', 'capacity', 'wd', 'dvr', 'expander', 'hard', 'drive', 'esata', 'interface', 'wd', 'hard', 'drive', 'offers', 'excellent', 'connectivity', 'pc', 'huge', 'storage', 'capacity', 'wd', 'external', 'hdd', 'allows', 'conveniently', 'store', 'music', 'movies', 'videos', 'data', 'files', 'rpm', 'rotational', 'speed', 'wd', 'hard', 'drive', 'provides', 'excellent', 'data', 'transfer', 'speed', 'weighing', 'lb', 'wd', 'dvr', 'expander', 'hard', 'drive', 'easily', 'carried', 'wherever', 'go', 'passive', 'cooling', 'system', 'wd', 'external', 'hdd', 'keeps', 'temperature', 'control', 'gives', 'quiet', 'performance']",12,0.4674647595974145,
+13,,,,,,,12,[Sony] Playstation 4 PS4 Video Game Console Black - Latest Model,playstation 4,3.33,,"['sony', 'playstation', 'video', 'game', 'console', 'black', 'latest', 'model']",13,0.4653569656375086,
+14,,,,,,,24,[Sony] Playstation 4 PS4 1105A Video Game Console 500GB White - Latest Model,playstation 4,4.0,,"['sony', 'playstation', 'video', 'game', 'console', 'white', 'latest', 'model']",14,0.4644643172506154,
+15,,,,,,,79,"Panasonic ES3831K Single Blade Travel Shaver, Black New",shaver panasonic,3.2,"Strong and trustworthy, the Panasonic electric shaver is built for folks who are worried about a wonderful shave every day.  This Panasonic ES3833S is just right for taming your beard, with an easy-to-maneuver design, so you can retain wonderfully soft skin.  Spend as much time as you need getting a complete shave by making use of the outstanding shave time typical of the Panasonic electric shaver.  Moreover, this men's electric shaver includes precision foil blades, so you can get wonderful shaves over a prolonged period.  With the gentle shaving mechanism on this Panasonic ES3833S, you can help avoid burning sensations on tender skin.","['panasonic', 'single', 'blade', 'travel', 'shaver', 'black', 'new', 'strong', 'trustworthy', 'panasonic', 'electric', 'shaver', 'built', 'folks', 'worried', 'wonderful', 'shave', 'every', 'day', 'panasonic', 'right', 'taming', 'beard', 'design', 'retain', 'wonderfully', 'soft', 'skin', 'spend', 'much', 'time', 'need', 'getting', 'complete', 'shave', 'making', 'use', 'outstanding', 'shave', 'time', 'typical', 'panasonic', 'electric', 'shaver', 'moreover', 'men', 'electric', 'shaver', 'includes', 'precision', 'foil', 'blades', 'get', 'wonderful', 'shaves', 'prolonged', 'period', 'gentle', 'shaving', 'mechanism', 'panasonic', 'help', 'avoid', 'burning', 'sensations', 'tender', 'skin']",15,0.4640303530090637,
+16,,,,,,,297,Stand Ride Sit Double Baby Infant Toddler Child Walk Outdoor Stroller Maternity,double stroller,4.0,"front seat features a multi-position recline, which can be placed in a fully flat position for naptime. The rear bench seat, perfect for your older child, is padded for comfort. As a fun alternative, he or she can opt to stand on the sturdy platform. Also suitable for infants, this double tandem stroller is compatible with all Graco Classic Connect infant car seats. The car seat latches securely into place on top of the front seat. Graco offers a 1-handed fold that locks for quick storage. The swiveling front wheels feature built-in suspension for easy maneuverability and can be locked for greater stability when strolling over uneven terrain. The front seat features a convertible 3- to 5-point harness that adapts to your growing child. The rear seat offers a three-point harness for the padded bench. When standing on the platform, riding handles provide extra stability for your child will while strolling. The stroller includes a parent tray with two deep cup holders and extra storage space for keys, a wallet or phone. The front seat of the stand and ride stroller features a child's tray ideal for bottles, cups, and snacks. The entire tray pivots fully, making it easy to lift your child in and out of the seat. The large storage basket is sturdy big enough to store essentials. For convenience, you can easily remove both seat cushions and machine-wash them in cold water on a delicate cycle. The stroller frame wipes down easily with soap and warm water.<br><ul><li>Plastic, Metal</li><li>Imported</li><li>Tandem baby stroller is ideal for families of twins or two young children. Multi-position front seat and rear bench seat with standing platform.</li><li>The tandem baby stroller for a young baby .The swiveling front wheels feature built-in suspension for easy maneuverability and can be locked for greater stability when strolling over uneven terrain.</li><li>Both seats accommodate up to 50 pounds for supreme flexibility. The rear seat offers a 3-point harness for the padded bench. When standing on the platform, riding handles provide extra stability for your child will while strolling.</li><li>Leave the country behind with this sleek, urban fashion. Metropolis offers a trendy and sporty look for your baby with metallic, textured fabrics.</li><li>Machine-washable seats are easy to clean.</li></ul><br><br>PAYMENT:PAYPAL ONLY!!!<br>FREE Shippingåá &nbsp;Handling time normally takes 1-3 day to process once payment is received.åá &nbsp;Usually takes 5-10 business days for item to arriveåá &nbsp;I only ship to the lower 48 states only.åá &nbsp;I do not ship to APO/FPO/DPO/PO Box, Hawaii, or Alaska<br>Return PolicyWe offer a 14 Day Return Policy. However, all items purchased must be returned in the same condition as they were received in.<br>Other ItemsThanks for stopping by. Please check out my other items at piscesprincess14.<br>Also, I do strive for a 5-star rating. If you are pleased with your item upon delivery, your positive feedback is greatly appreciated. If you have any questions, please do not hesitate to contact me via eBay. I look forward to doing business with you soon.</br></br></br></br></br></br></br>","['stand', 'ride', 'sit', 'double', 'baby', 'infant', 'toddler', 'child', 'walk', 'outdoor', 'stroller', 'maternity', 'front', 'seat', 'features', 'recline', 'placed', 'fully', 'flat', 'position', 'naptime', 'rear', 'bench', 'seat', 'perfect', 'older', 'child', 'padded', 'comfort', 'fun', 'alternative', 'opt', 'stand', 'sturdy', 'platform', 'also', 'suitable', 'infants', 'double', 'tandem', 'stroller', 'compatible', 'graco', 'classic', 'connect', 'infant', 'car', 'seats', 'car', 'seat', 'latches', 'securely', 'place', 'top', 'front', 'seat', 'graco', 'offers', 'fold', 'locks', 'quick', 'storage', 'swiveling', 'front', 'wheels', 'feature', 'suspension', 'easy', 'maneuverability', 'locked', 'greater', 'stability', 'strolling', 'uneven', 'terrain', 'front', 'seat', 'features', 'convertible', 'harness', 'adapts', 'growing', 'child', 'rear', 'seat', 'offers', 'harness', 'padded', 'bench', 'standing', 'platform', 'riding', 'handles', 'provide', 'extra', 'stability', 'child', 'strolling', 'stroller', 'includes', 'parent', 'tray', 'two', 'deep', 'cup', 'holders', 'extra', 'storage', 'space', 'keys', 'wallet', 'phone', 'front', 'seat', 'stand', 'ride', 'stroller', 'features', 'child', 'tray', 'ideal', 'bottles', 'cups', 'snacks', 'entire', 'tray', 'pivots', 'fully', 'making', 'easy', 'lift', 'child', 'seat', 'large', 'storage', 'basket', 'sturdy', 'big', 'enough', 'store', 'essentials', 'convenience', 'easily', 'remove', 'seat', 'cushions', 'cold', 'water', 'delicate', 'cycle', 'stroller', 'frame', 'wipes', 'easily', 'soap', 'warm', 'br', 'ul', 'li', 'plastic', 'metal', 'li', 'imported', 'li', 'tandem', 'baby', 'stroller', 'ideal', 'families', 'twins', 'two', 'young', 'children', 'front', 'seat', 'rear', 'bench', 'seat', 'standing', 'li', 'tandem', 'baby', 'stroller', 'young', 'baby', 'swiveling', 'front', 'wheels', 'feature', 'suspension', 'easy', 'maneuverability', 'locked', 'greater', 'stability', 'strolling', 'uneven', 'li', 'seats', 'accommodate', 'pounds', 'supreme', 'flexibility', 'rear', 'seat', 'offers', 'harness', 'padded', 'bench', 'standing', 'platform', 'riding', 'handles', 'provide', 'extra', 'stability', 'child', 'li', 'leave', 'country', 'behind', 'sleek', 'urban', 'fashion', 'metropolis', 'offers', 'trendy', 'sporty', 'look', 'baby', 'metallic', 'textured', 'li', 'seats', 'easy', 'br', 'br', 'payment', 'paypal', 'br', 'free', 'shippingåá', 'nbsp', 'handling', 'time', 'normally', 'takes', 'day', 'process', 'payment', 'nbsp', 'usually', 'takes', 'business', 'days', 'item', 'arriveåá', 'nbsp', 'ship', 'lower', 'states', 'nbsp', 'ship', 'box', 'hawaii', 'alaska', 'br', 'return', 'policywe', 'offer', 'day', 'return', 'policy', 'however', 'items', 'purchased', 'must', 'returned', 'condition', 'received', 'br', 'itemsthanks', 'stopping', 'please', 'check', 'items', 'br', 'also', 'strive', 'rating', 'pleased', 'item', 'upon', 'delivery', 'positive', 'feedback', 'greatly', 'appreciated', 'questions', 'please', 'hesitate', 'contact', 'via', 'ebay', 'look', 'forward', 'business']",16,0.4625915755862438,
+17,,,,,,,369,"Marvel Legends Infinite 6 THE AMAZING SPIDER-MAN Loose 100% Complete""",spiderman,3.67,"eBay item number:231545638222
+
+
+	Seller assumes all responsibility for this listing.
+		
+			
+					<strong>Item specifics</strong>
+					<table>
+						
+						<tr>
+									<td>
+									 			Condition:</td>
+											 
+											<td>
+												
+																	
+															
+															
+															
+																Used: An item that has been used previously. See the sellerÛªs listing for full details and description of 
+																
+																			any imperfections.
+																					See all condition definitions<strong>- opens in a new window or tab</strong>
+																			
+																		
+																		
+																		
+																			... Read more<strong>about the condition</strong>	
+																		
+																	
+															
+														
+													</td>
+										<td>&nbsp;</td>
+									</tr>
+							
+							</table>
+						
+					
+			
+	
+				
+						<strong>DDMUSK</strong>
+						
+							Visit my eBay store &nbsp;","['marvel', 'legends', 'infinite', 'amazing', 'loose', 'complete', 'ebay', 'item', 'seller', 'assumes', 'responsibility', 'listing', 'strong', 'item', 'specifics', 'table', 'tr', 'td', 'condition', 'td', 'used', 'item', 'used', 'previously', 'see', 'listing', 'full', 'details', 'description', 'imperfections', 'see', 'condition', 'definitions', 'strong', 'opens', 'new', 'window', 'tab', 'read', 'strong', 'condition', 'td', 'nbsp', 'strong', 'ddmusk', 'visit', 'ebay', 'store', 'nbsp']",17,0.46253752115022706,
+18,,,,,,,110,Manual Coffee Grinder  Hand-Crank Mill NEW,coffee grinder,4.0,"<strong>This durable and compact coffee mill provides perfect grinding control for your chosen brewing method. Ceramic conical burrs donÛªt produce the heat that can adversely affect your coffeeÛªs essential oils, and have no metal odor and will never rust. Burrs easily adjust to produce a range of grind sizes, from superfine espresso to coarse for French press brewing. Mill bottom twists off for easy access to ground coffee.&nbsp;<br><br>Ergonomically designed crank handle is removable for compact storage and easy travel. Detachable base holds whole coffee beans, detaches and seals with included lid to store coffee and keep it fresh. No-slip rubber base keeps the mill in place during grinding. Glass bottom is dishwasher safe, wipe clean with damp cloth the top portion with grinder.&nbsp;</br></br></strong>","['manual', 'coffee', 'grinder', 'mill', 'new', 'strong', 'durable', 'compact', 'coffee', 'mill', 'provides', 'perfect', 'grinding', 'control', 'chosen', 'brewing', 'method', 'ceramic', 'conical', 'burrs', 'produce', 'heat', 'adversely', 'affect', 'essential', 'oils', 'metal', 'odor', 'never', 'rust', 'burrs', 'easily', 'adjust', 'produce', 'range', 'grind', 'sizes', 'superfine', 'espresso', 'coarse', 'french', 'press', 'brewing', 'mill', 'bottom', 'twists', 'easy', 'access', 'ground', 'nbsp', 'br', 'br', 'ergonomically', 'designed', 'crank', 'handle', 'removable', 'compact', 'storage', 'easy', 'travel', 'detachable', 'base', 'holds', 'whole', 'coffee', 'beans', 'detaches', 'seals', 'included', 'lid', 'store', 'coffee', 'keep', 'fresh', 'rubber', 'base', 'keeps', 'mill', 'place', 'grinding', 'glass', 'bottom', 'dishwasher', 'safe', 'wipe', 'clean', 'damp', 'cloth', 'top', 'portion', 'nbsp']",18,0.4622319482172013,
+19,,,,,,,400,"Memory Foam Anti Fatigue Chef Design Kitchen Floor Mat Rug 30 x 18"" Utensils""",kitchen rugs,3.67,"eBay item number:181650723381
+
+
+	Seller assumes all responsibility for this listing.
+	
+		Last updated on
+		&nbsp;Apr 28, 2015 11:39:55 PDT&nbsp;
+		View all revisions
+		
+	
+
+		
+			
+					<strong>Item specifics</strong>
+					<table>
+						
+						<tr>
+									<td>
+									 			Condition:</td>
+											 
+											<td>
+												
+																	
+															
+															
+															
+																New with tags: A brand-new, unused, and unworn item (including handmade items) in the original packaging (such as 
+																
+																			the original box or bag) and/or with the original tags attached.
+																					See all condition definitions<strong>- opens in a new window or tab</strong>
+																			
+																		
+																		
+																		
+																			... Read more<strong>about the condition</strong>	
+																		
+																	
+															
+														
+													</td>
+										<td>
+									 			UPC: </td>
+											 
+											<td>
+												<strong>642049064577</strong></td>
+										</tr>
+							<tr>
+									<td>
+									 			New: </td>
+											 
+											<td>
+												1000</td>
+										</tr>
+							
+							</table>
+						
+					
+			
+	
+				
+		
+				<table>
+	<tr>
+		<td>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<strong>Memory Foam Anti Fatigue Chef Design Kitchen Floor Mat Rug 30"" x 18"" Utensils</strong>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>Kitchen mats can help keep your floor clean and they can add a little rustic charm to the ol&#39; homestead.</p>
+
+<p>These Memory Foam Anti-Fatigue Chef Design Kitchen Floor Mats do just that, but they&#39;re also comfy to stand on.</p>
+
+<p>They&#39;re made of memory foam with a vinyl cover and are available in a wide variety of different country styles.</p>
+
+<p>Add a little rural beauty to your kitchen with this practical floor mat!</p>
+
+<strong>Features:</strong>
+
+<ul>
+ <li>Anti-Fatigue For Standing Comfort</li>
+ <li>Easy Care</li>
+ <li>Wipe Clean</li>
+ <li>Measures 18&quot;&nbsp;by 30&quot;</li>
+ <li>Durable Construction</li>
+ <li>100% Vinyl Cover</li>
+</ul>
+
+<strong>Design:</strong>
+
+<ul>
+
+ <li>French Utensils</li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<strong>Shipping</strong>
+<p><strong>What Separates Our Shipping?</strong></p>
+<p>We understand that an large part of customer service depends on quickly and efficiently shipping orders. For that reason we have incorporated a special software that integrates our inventory and fulfillment in one central location.&nbsp;</p>
+<p>As we continue to add items to our catalog our software will make ensure that all listings, new or old, remain up to date with our active listings. Since we know you don't have time to waste, virtually all orders are shipped within one business day.&nbsp;</p>
+<p>&nbsp;</p>
+
+<strong>Payment</strong>
+<strong>Payment Requirements </strong>
+<p>
+In order for your order to be submitted and fulfilled, we will need to verify your payment. Please confirm your payment via Paypal or by any means that are in line with eBay policies. Upon receiving payment confirmation we will do our best to ship your order within one business day. We thank you for your cooperation and we hope to make this process quick and easy one.</p>
+<p>&nbsp;</p>
+
+<strong>Returns</strong>
+<p>OUR STORE POLICIES</p>
+<p>We offer a FREE standard shipping policy for all orders. After receiving an order, we ask that customers contact us within 30 days- if any item needs to be returned or replaced for whatever reason we will be happy to assist you. The quicker you can inform us about your order, the quicker we will be able to resolve the problem.</p>
+<p>For most cases, we are prepared to offer money back or item exchange, as per to request of our customer. The buyer pays for return shipping.</p>
+
+<strong>About Us</strong>
+<p><strong>Sweet Home Deals</strong></p>
+<p><strong>What We&rsquo;re About</strong></p>
+<p>Our mission is simple: to help you create the bedroom and bathroom of your dreams with the highest quality bed and bath accessories. That was our focus when we opened our family-owned business in 1995, and it remains our number-one priority today.</p>
+<p><strong>A Different Approach</strong></p>
+<p>Our unwavering commitment to quality starts at the very beginning, when our products are made. Since we manufacture nearly everything we sell, we&rsquo;re able to insist on using only the best designs and materials. And since we've cut out the middle man, we can accommodate retail and wholesale customers, domestic and international orders, all while keeping prices reasonable.</p>
+<p><strong>Unmatched Selection</strong></p>
+<p>Whether you&rsquo;re shopping for luxury bedding and alternative down comforters or designer shower curtains and bath rugs, we&rsquo;ve got you covered. Our large inventory is constantly growing, so we have something to fit every sense of style. </p>
+<p><strong>Unparalleled Customer Service</strong></p>
+<p>We want you to be 100 percent satisfied with your purchases, and we pride ourselves on offering the best customer service in the business. Whether you&rsquo;re calling with a simple question or telling us about your experience with one of our products, we strive to give each and every customer an efficient, personal experience. And since we know you don&rsquo;t have time to waste, virtually all orders are shipped within one business day.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Our Hometown</strong></p>
+<p>Our headquarters are in Brooklyn, New York, in the heart of a thriving arts and culture neighborhood. On every corner you&rsquo;ll find artisans and designers who, like us, are passionate about what they do. It&rsquo;s this environment that helps inspire us to continue innovating and creating.</p>
+
+
+
+
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+<br>
+<table><tr><td></td></tr><tr><td></td></tr></table>
+		</br></td>
+	</tr>
+</table>
+
+
+				
+	
+		<strong>Questions and answers about this item</strong>
+		
+	
+	
+		No questions or answers have been posted about this item.
+	
+		Ask a question<strong> - opens in a new window or tab</strong>
+				
+
+
+	<br/><br/><br/><br/>
+	
+		
+        
+
+                
+                
+                    
+	Seller assumes all responsibility for this listing.
+	        		
+		
+				
+					
+						
+					
+								
+									<strong>
+												Shipping and handling</strong>
+										
+								
+									
+									This item will ship to <strong> United States</strong>, but the seller has not specified shipping options. Contact the seller<strong>- opens in a new window or tab</strong> and request a shipping method to your location.
+								
+									
+									Shipping cost cannot be calculated. Please enter a valid ZIP Code.
+								
+									
+									
+									 
+									 
+											Item location: Brooklyn, New York, United States								
+										
+										
+
+		
+			Shipping to: United States, Canada, United Kingdom, China, Mexico, Germany, Japan, Brazil, France, Australia, Russian Federation, Denmark, Romania, Slovakia, Bulgaria, Czech Republic, Finland, Hungary, Latvia, Lithuania, Malta, Estonia, Greece, Portugal, Cyprus, Slovenia, Sweden, Korea, South, Indonesia, Taiwan, South Africa, Thailand, Belgium, Hong Kong, Ireland, Netherlands, Poland, Spain, Italy, Austria, Israel, New Zealand, Philippines, Singapore, Switzerland, Norway, Saudi Arabia, Ukraine, United Arab Emirates, Qatar, Kuwait, Bahrain, Croatia, Republic of, Malaysia, Turkey, Guatemala, El Salvador, Honduras, Jamaica
+		
+	
+		
+				Excludes: Alaska/Hawaii, US Protectorates, APO/FPO, Greenland, Bermuda, Saint Pierre and Miquelon, Iceland, Macedonia, Liechtenstein, Jersey, Montenegro, Svalbard and Jan Mayen, Bosnia and Herzegovina, Vatican City State, San Marino, Belarus, Albania, Monaco, Guernsey, Moldova, Gibraltar, Andorra, Serbia, Luxembourg, Gambia, Mayotte, Kenya, Guinea-Bissau, Togo, Senegal, Burundi, Equatorial Guinea, Algeria, Benin, Swaziland, Tanzania, Burkina Faso, Reunion, Djibouti, Mali, Botswana, Saint Helena, Rwanda, Seychelles, Zimbabwe, Gabon Republic, CÌ«te d'Ivoire (Ivory Coast), Angola, Mozambique, Namibia, Sierra Leone, Cameroon, Eritrea, Morocco, Mauritania, Congo, Democratic Republic of the, Western Sahara, Congo, Republic of the, Comoros, Zambia, Somalia, Ethiopia, Niger, Ghana, Cape Verde Islands, Madagascar, Liberia, Libya, Central African Republic, Lesotho, Nigeria, Mauritius, Guinea, Chad, Malawi, Tunisia, Uganda, Egypt, Suriname, Argentina, Falkland Islands (Islas Malvinas), Chile, Paraguay, Peru, French Guiana, Guyana, Uruguay, Colombia, Ecuador, Venezuela, Bolivia, Cambodia, Vietnam, Macau, Laos, Brunei Darussalam, Armenia, Bhutan, Uzbekistan, Pakistan, Kyrgyzstan, Tajikistan, Bangladesh, Sri Lanka, Turkmenistan, Afghanistan, Mongolia, Nepal, Azerbaijan Republic, Georgia, Maldives, India, Kazakhstan, Oman, Iraq, Yemen, Lebanon, Jordan, Guadeloupe, Aruba, Antigua and Barbuda, Panama, Puerto Rico, Cayman Islands, Grenada, Haiti, Bahamas, Dominica, Anguilla, Dominican Republic, Saint Kitts-Nevis, Saint Vincent and the Grenadines, Belize, Montserrat, Martinique, Saint Lucia, British Virgin Islands, Turks and Caicos Islands, Costa Rica, Netherlands Antilles, Trinidad and Tobago, Nicaragua, Barbados, Virgin Islands (U.S.), Fiji, Papua New Guinea, Marshall Islands, Wallis and Futuna, American Samoa, Kiribati, Western Samoa, Solomon Islands, Nauru, Guam, Micronesia, Tonga, New Caledonia, French Polynesia, Cook Islands, Vanuatu, Palau, Tuvalu, Niue
+		
+	
+		
+		
+
+		
+			
+		
+		
+			No additional import charges at delivery!
+			
+				This item will be shipped through the Global Shipping Program and includes international tracking. Learn more<strong>- opens in a new window or tab</strong>
+					
+		
+
+						
+
+
+
+									
+	<table>
+			<tbody>
+				<tr>
+					<td>
+						
+							
+							Change country:
+							
+								-Select-
+								Australia
+									Austria
+									Bahrain
+									Belgium
+									Brazil
+									Bulgaria
+									Canada
+									China
+									Croatia, Republic of
+									Cyprus
+									Czech Republic
+									Denmark
+									El Salvador
+									Estonia
+									Finland
+									France
+									Germany
+									Greece
+									Guatemala
+									Honduras
+									Hong Kong
+									Hungary
+									Indonesia
+									Ireland
+									Israel
+									Italy
+									Jamaica
+									Japan
+									Korea, South
+									Kuwait
+									Latvia
+									Lithuania
+									Malaysia
+									Malta
+									Mexico
+									Netherlands
+									New Zealand
+									Norway
+									Philippines
+									Poland
+									Portugal
+									Qatar
+									Romania
+									Russian Federation
+									Saudi Arabia
+									Singapore
+									Slovakia
+									Slovenia
+									South Africa
+									Spain
+									Sweden
+									Switzerland
+									Taiwan
+									Thailand
+									Turkey
+									Ukraine
+									United Arab Emirates
+									United Kingdom
+									United States
+									
+							
+						There are 0 items available. Please enter a number less than or equal to 0.
+						Select a valid country.
+					</td>
+					<td>
+						
+							 										
+							ZIP Code:
+							
+								
+							
+							Please enter a valid ZIP Code.
+							Please enter 5 or 9 numbers for the ZIP Code.
+						
+						
+							
+						
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	
+	
+											
+												
+ 
+										
+								
+								
+		<table>
+			
+				<tr>
+					<th>
+							
+								Handling time
+						</th>
+					<th>
+							Estimated sales tax
+						</th>
+					</tr>
+			
+			<tbody>
+				<tr>
+					<td>
+							Will usually ship within 1 business day of receiving cleared payment<strong> - opens in a new window or tab</strong>.
+						</td>
+					<td>
+							Seller charges sales tax for items shipped to: NY*(8.825%).
+							* Tax applies to subtotal + S&amp;H for these states only
+							</td>
+					</tr>
+			</tbody>
+		</table>
+	
+
+								
+								
+									
+						
+			
+	        	
+	        	
+		        	
+			        		
+	
+	
+		
+			<strong>
+				Return policy</strong>
+			
+			To qualify for a hassle-free return, you must pay with PayPal and have the item shipped to a US address. The item must be returned in the same condition it was received. See terms and conditions<strong> - opens in a new window or tab</strong>.						
+				
+		
+		<table>
+			<tr>
+					<th>
+							
+								After receiving the item, open a return within		
+						</th>
+						
+						<th>
+								Refund will be given as
+							</th>							
+						<th>
+									Return shipping
+									  </th>								
+							</tr>
+			
+			<tr>
+			
+					<td>
+							
+								30 days		
+						</td>
+						
+						<td>
+								
+											Money back									
+									</td>							
+						<td>
+									You pay return shipping
+												</td>								
+							</tr>
+		</table>
+	<table>
+			</table>
+		
+		<br/>
+				<table>
+					</table>
+				
+				
+	
+	
+
+		        		
+				
+				
+				  
+			
+				
+					<strong>Payment details</strong>
+					
+										<table>
+											
+												<tr>
+													<th>Payment method</th>
+													<th>Preferred / Accepted</th>
+															<th>&nbsp;</th>
+												</tr>
+											
+											<tbody>
+												<tr>
+													<td>
+																	
+																		
+																						
+																</td>
+															<td>
+																
+																PayPal Preferred
+															</td>
+														<td>
+															&nbsp;</td>
+													</tr>
+													</tbody>
+										</table>","['memory', 'foam', 'anti', 'fatigue', 'chef', 'design', 'kitchen', 'floor', 'mat', 'rug', 'x', 'utensils', 'ebay', 'item', 'seller', 'assumes', 'responsibility', 'listing', 'last', 'updated', 'nbsp', 'apr', 'pdt', 'nbsp', 'view', 'revisions', 'strong', 'item', 'specifics', 'table', 'tr', 'td', 'condition', 'td', 'new', 'tags', 'unused', 'unworn', 'item', 'including', 'handmade', 'items', 'original', 'packaging', 'original', 'box', 'bag', 'original', 'tags', 'attached', 'see', 'condition', 'definitions', 'strong', 'opens', 'new', 'window', 'tab', 'read', 'strong', 'condition', 'td', 'upc', 'td', 'strong', 'tr', 'td', 'new', 'td', 'table', 'tr', 'td', 'strong', 'memory', 'foam', 'anti', 'fatigue', 'chef', 'design', 'kitchen', 'floor', 'mat', 'rug', 'x', 'utensils', 'p', 'kitchen', 'mats', 'help', 'keep', 'floor', 'clean', 'add', 'little', 'rustic', 'charm', 'ol', 'p', 'memory', 'foam', 'chef', 'design', 'kitchen', 'floor', 'mats', 'also', 'comfy', 'stand', 'p', 'made', 'memory', 'foam', 'vinyl', 'cover', 'available', 'wide', 'variety', 'different', 'country', 'p', 'add', 'little', 'rural', 'beauty', 'kitchen', 'practical', 'floor', 'mat', 'strong', 'features', 'ul', 'li', 'standing', 'comfort', 'li', 'easy', 'care', 'li', 'wipe', 'clean', 'li', 'measures', 'quot', 'nbsp', 'quot', 'li', 'durable', 'construction', 'li', 'vinyl', 'cover', 'strong', 'design', 'ul', 'li', 'french', 'utensils', 'strong', 'shipping', 'p', 'strong', 'separates', 'shipping', 'p', 'understand', 'large', 'part', 'customer', 'service', 'depends', 'quickly', 'efficiently', 'shipping', 'orders', 'reason', 'incorporated', 'special', 'software', 'integrates', 'inventory', 'fulfillment', 'one', 'central', 'nbsp', 'p', 'continue', 'add', 'items', 'catalog', 'software', 'make', 'ensure', 'listings', 'new', 'old', 'remain', 'date', 'active', 'listings', 'since', 'know', 'time', 'waste', 'virtually', 'orders', 'shipped', 'within', 'one', 'business', 'nbsp', 'p', 'nbsp', 'strong', 'payment', 'strong', 'payment', 'requirements', 'p', 'order', 'order', 'submitted', 'fulfilled', 'need', 'verify', 'payment', 'please', 'confirm', 'payment', 'via', 'paypal', 'means', 'line', 'ebay', 'policies', 'upon', 'receiving', 'payment', 'confirmation', 'best', 'ship', 'order', 'within', 'one', 'business', 'day', 'thank', 'cooperation', 'hope', 'make', 'process', 'quick', 'easy', 'p', 'nbsp', 'strong', 'returns', 'p', 'store', 'policies', 'p', 'offer', 'free', 'standard', 'shipping', 'policy', 'orders', 'receiving', 'order', 'ask', 'customers', 'contact', 'us', 'within', 'item', 'needs', 'returned', 'replaced', 'whatever', 'reason', 'happy', 'assist', 'quicker', 'inform', 'us', 'order', 'quicker', 'able', 'resolve', 'p', 'cases', 'prepared', 'offer', 'money', 'back', 'item', 'exchange', 'per', 'request', 'customer', 'buyer', 'pays', 'return', 'strong', 'us', 'p', 'strong', 'sweet', 'home', 'deals', 'p', 'strong', 'rsquo', 'p', 'mission', 'simple', 'help', 'create', 'bedroom', 'bathroom', 'dreams', 'highest', 'quality', 'bed', 'bath', 'accessories', 'focus', 'opened', 'business', 'remains', 'priority', 'p', 'strong', 'different', 'approach', 'p', 'unwavering', 'commitment', 'quality', 'starts', 'beginning', 'products', 'made', 'since', 'manufacture', 'nearly', 'everything', 'sell', 'rsquo', 'able', 'insist', 'using', 'best', 'designs', 'materials', 'since', 'cut', 'middle', 'man', 'accommodate', 'retail', 'wholesale', 'customers', 'domestic', 'international', 'orders', 'keeping', 'prices', 'p', 'strong', 'unmatched', 'selection', 'p', 'whether', 'rsquo', 'shopping', 'luxury', 'bedding', 'alternative', 'comforters', 'designer', 'shower', 'curtains', 'bath', 'rugs', 'rsquo', 'got', 'covered', 'large', 'inventory', 'constantly', 'growing', 'something', 'fit', 'every', 'sense', 'style', 'p', 'strong', 'unparalleled', 'customer', 'service', 'p', 'want', 'percent', 'satisfied', 'purchases', 'pride', 'offering', 'best', 'customer', 'service', 'business', 'whether', 'rsquo', 'calling', 'simple', 'question', 'telling', 'us', 'experience', 'one', 'products', 'strive', 'give', 'every', 'customer', 'efficient', 'personal', 'experience', 'since', 'know', 'rsquo', 'time', 'waste', 'virtually', 'orders', 'shipped', 'within', 'one', 'business', 'p', 'strong', 'nbsp', 'p', 'strong', 'hometown', 'p', 'headquarters', 'brooklyn', 'new', 'york', 'heart', 'thriving', 'arts', 'culture', 'neighborhood', 'every', 'corner', 'rsquo', 'find', 'artisans', 'designers', 'like', 'us', 'passionate', 'rsquo', 'environment', 'helps', 'inspire', 'us', 'continue', 'innovating', 'nbsp', 'br', 'table', 'tr', 'td', 'tr', 'td', 'strong', 'questions', 'answers', 'item', 'questions', 'answers', 'posted', 'item', 'ask', 'question', 'strong', 'opens', 'new', 'window', 'tab', 'seller', 'assumes', 'responsibility', 'listing', 'strong', 'shipping', 'handling', 'item', 'ship', 'strong', 'united', 'states', 'seller', 'specified', 'shipping', 'options', 'contact', 'seller', 'strong', 'opens', 'new', 'window', 'tab', 'request', 'shipping', 'method', 'location', 'shipping', 'cost', 'calculated', 'please', 'enter', 'valid', 'zip', 'code', 'item', 'location', 'brooklyn', 'new', 'york', 'united', 'states', 'shipping', 'united', 'states', 'canada', 'united', 'kingdom', 'china', 'mexico', 'germany', 'japan', 'brazil', 'france', 'australia', 'russian', 'federation', 'denmark', 'romania', 'slovakia', 'bulgaria', 'czech', 'republic', 'finland', 'hungary', 'latvia', 'lithuania', 'malta', 'estonia', 'greece', 'portugal', 'cyprus', 'slovenia', 'sweden', 'korea', 'south', 'indonesia', 'taiwan', 'south', 'africa', 'thailand', 'belgium', 'hong', 'kong', 'ireland', 'netherlands', 'poland', 'spain', 'italy', 'austria', 'israel', 'new', 'zealand', 'philippines', 'singapore', 'switzerland', 'norway', 'saudi', 'arabia', 'ukraine', 'united', 'arab', 'emirates', 'qatar', 'kuwait', 'bahrain', 'croatia', 'republic', 'malaysia', 'turkey', 'guatemala', 'el', 'salvador', 'honduras', 'jamaica', 'excludes', 'us', 'protectorates', 'greenland', 'bermuda', 'saint', 'pierre', 'miquelon', 'iceland', 'macedonia', 'liechtenstein', 'jersey', 'montenegro', 'svalbard', 'jan', 'mayen', 'bosnia', 'herzegovina', 'vatican', 'city', 'state', 'san', 'marino', 'belarus', 'albania', 'monaco', 'guernsey', 'moldova', 'gibraltar', 'andorra', 'serbia', 'luxembourg', 'gambia', 'mayotte', 'kenya', 'togo', 'senegal', 'burundi', 'equatorial', 'guinea', 'algeria', 'benin', 'swaziland', 'tanzania', 'burkina', 'faso', 'reunion', 'djibouti', 'mali', 'botswana', 'saint', 'helena', 'rwanda', 'seychelles', 'zimbabwe', 'gabon', 'republic', 'cì', 'te', 'ivory', 'coast', 'angola', 'mozambique', 'namibia', 'sierra', 'leone', 'cameroon', 'eritrea', 'morocco', 'mauritania', 'congo', 'democratic', 'republic', 'western', 'sahara', 'congo', 'republic', 'comoros', 'zambia', 'somalia', 'ethiopia', 'niger', 'ghana', 'cape', 'verde', 'islands', 'madagascar', 'liberia', 'libya', 'central', 'african', 'republic', 'lesotho', 'nigeria', 'mauritius', 'guinea', 'chad', 'malawi', 'tunisia', 'uganda', 'egypt', 'suriname', 'argentina', 'falkland', 'islands', 'islas', 'malvinas', 'chile', 'paraguay', 'peru', 'french', 'guiana', 'guyana', 'uruguay', 'colombia', 'ecuador', 'venezuela', 'bolivia', 'cambodia', 'vietnam', 'macau', 'laos', 'brunei', 'darussalam', 'armenia', 'bhutan', 'uzbekistan', 'pakistan', 'kyrgyzstan', 'tajikistan', 'bangladesh', 'sri', 'lanka', 'turkmenistan', 'afghanistan', 'mongolia', 'nepal', 'azerbaijan', 'republic', 'georgia', 'maldives', 'india', 'kazakhstan', 'oman', 'iraq', 'yemen', 'lebanon', 'jordan', 'guadeloupe', 'aruba', 'antigua', 'barbuda', 'panama', 'puerto', 'rico', 'cayman', 'islands', 'grenada', 'haiti', 'bahamas', 'dominica', 'anguilla', 'dominican', 'republic', 'saint', 'saint', 'vincent', 'grenadines', 'belize', 'montserrat', 'martinique', 'saint', 'lucia', 'british', 'virgin', 'islands', 'turks', 'caicos', 'islands', 'costa', 'rica', 'netherlands', 'antilles', 'trinidad', 'tobago', 'nicaragua', 'barbados', 'virgin', 'islands', 'fiji', 'papua', 'new', 'guinea', 'marshall', 'islands', 'wallis', 'futuna', 'american', 'samoa', 'kiribati', 'western', 'samoa', 'solomon', 'islands', 'nauru', 'guam', 'micronesia', 'tonga', 'new', 'caledonia', 'french', 'polynesia', 'cook', 'islands', 'vanuatu', 'palau', 'tuvalu', 'niue', 'additional', 'import', 'charges', 'delivery', 'item', 'shipped', 'global', 'shipping', 'program', 'includes', 'international', 'tracking', 'learn', 'strong', 'opens', 'new', 'window', 'tab', 'table', 'tbody', 'tr', 'td', 'change', 'country', 'australia', 'austria', 'bahrain', 'belgium', 'brazil', 'bulgaria', 'canada', 'china', 'croatia', 'republic', 'cyprus', 'czech', 'republic', 'denmark', 'el', 'salvador', 'estonia', 'finland', 'france', 'germany', 'greece', 'guatemala', 'honduras', 'hong', 'kong', 'hungary', 'indonesia', 'ireland', 'israel', 'italy', 'jamaica', 'japan', 'korea', 'south', 'kuwait', 'latvia', 'lithuania', 'malaysia', 'malta', 'mexico', 'netherlands', 'new', 'zealand', 'norway', 'philippines', 'poland', 'portugal', 'qatar', 'romania', 'russian', 'federation', 'saudi', 'arabia', 'singapore', 'slovakia', 'slovenia', 'south', 'africa', 'spain', 'sweden', 'switzerland', 'taiwan', 'thailand', 'turkey', 'ukraine', 'united', 'arab', 'emirates', 'united', 'kingdom', 'united', 'states', 'items', 'available', 'please', 'enter', 'number', 'less', 'equal', 'select', 'valid', 'country', 'td', 'zip', 'code', 'please', 'enter', 'valid', 'zip', 'code', 'please', 'enter', 'numbers', 'zip', 'code', 'table', 'tr', 'th', 'handling', 'time', 'th', 'estimated', 'sales', 'tax', 'tbody', 'tr', 'td', 'usually', 'ship', 'within', 'business', 'day', 'receiving', 'cleared', 'payment', 'strong', 'opens', 'new', 'window', 'tab', 'td', 'seller', 'charges', 'sales', 'tax', 'items', 'shipped', 'tax', 'applies', 'subtotal', 'amp', 'h', 'states', 'strong', 'return', 'policy', 'qualify', 'return', 'must', 'pay', 'paypal', 'item', 'shipped', 'us', 'address', 'item', 'must', 'returned', 'condition', 'received', 'see', 'terms', 'conditions', 'strong', 'opens', 'new', 'window', 'tab', 'table', 'tr', 'th', 'receiving', 'item', 'open', 'return', 'within', 'th', 'refund', 'given', 'th', 'return', 'shipping', 'tr', 'td', 'days', 'td', 'money', 'back', 'td', 'pay', 'return', 'shipping', 'table', 'table', 'strong', 'payment', 'details', 'table', 'tr', 'th', 'payment', 'method', 'th', 'preferred', 'accepted', 'th', 'nbsp', 'tbody', 'tr', 'td', 'td', 'paypal', 'preferred', 'td', 'nbsp']",19,0.46177026951281186,
