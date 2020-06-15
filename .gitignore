@@ -9,3 +9,8 @@ data/GoogleNews-vectors-negative300.bin.gz
 data/wiki.en.bin
 data/wiki.en.vec
 data/wiki.en.zip
+csv_logs_only_title_06_14_20/
+csv_logs_with_textrank_06_14_20
+csv_logs_06_12_20/
+download_destination_folder_with_slash_at_end/
+data/
