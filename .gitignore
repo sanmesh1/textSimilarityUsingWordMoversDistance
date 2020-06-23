@@ -15,3 +15,7 @@ csv_logs_06_12_20/
 download_destination_folder_with_slash_at_end/
 data/
 **/*.gsheet
+**/*.bin
+**/*.vec
+**/*.gz
+**/*.zip
